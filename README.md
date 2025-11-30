@@ -64,7 +64,7 @@ Para poner en marcha el proyecto, siga los siguientes pasos:
 
 1.  **Clonación del Repositorio:**
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/Past-Alex/POOUNIDAD4.git
     ```
 
 2.  **Configuración del IDE:**
